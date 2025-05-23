@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Sparta Coding Club\\\uAC1C\uC778\uACFC\uC81C_JumpDungeon\\JumpDungeon\\",
+  "WorkspaceRootPath": "D:\\Git\\Sparta_Git\\Dahye_UnityProject\\JumpDungeon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26F8C841-1D95-85A5-751C-36D06FFE0A09}|Assembly-CSharp.csproj|d:\\sparta coding club\\\uAC1C\uC778\uACFC\uC81C_jumpdungeon\\jumpdungeon\\assets\\scripts\\item\\hamburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26F8C841-1D95-85A5-751C-36D06FFE0A09}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\item\\hamburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26F8C841-1D95-85A5-751C-36D06FFE0A09}|Assembly-CSharp.csproj|D:\\Git\\Sparta_Git\\Dahye_UnityProject\\JumpDungeon\\assets\\scripts\\ui\\uicondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F8C841-1D95-85A5-751C-36D06FFE0A09}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uicondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26F8C841-1D95-85A5-751C-36D06FFE0A09}|Assembly-CSharp.csproj|d:\\sparta coding club\\\uAC1C\uC778\uACFC\uC81C_jumpdungeon\\jumpdungeon\\assets\\scripts\\item\\jumpboost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26F8C841-1D95-85A5-751C-36D06FFE0A09}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\item\\jumpboost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26F8C841-1D95-85A5-751C-36D06FFE0A09}|Assembly-CSharp.csproj|d:\\sparta coding club\\\uAC1C\uC778\uACFC\uC81C_jumpdungeon\\jumpdungeon\\assets\\scripts\\player\\playercondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26F8C841-1D95-85A5-751C-36D06FFE0A09}|Assembly-CSharp.csproj|D:\\Git\\Sparta_Git\\Dahye_UnityProject\\JumpDungeon\\assets\\scripts\\player\\playercondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26F8C841-1D95-85A5-751C-36D06FFE0A09}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26F8C841-1D95-85A5-751C-36D06FFE0A09}|Assembly-CSharp.csproj|d:\\sparta coding club\\\uAC1C\uC778\uACFC\uC81C_jumpdungeon\\jumpdungeon\\assets\\scripts\\ui\\uiinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26F8C841-1D95-85A5-751C-36D06FFE0A09}|Assembly-CSharp.csproj|d:\\git\\sparta_git\\dahye_unityproject\\jumpdungeon\\assets\\scripts\\item\\hamburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F8C841-1D95-85A5-751C-36D06FFE0A09}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\item\\hamburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F8C841-1D95-85A5-751C-36D06FFE0A09}|Assembly-CSharp.csproj|D:\\Git\\Sparta_Git\\Dahye_UnityProject\\JumpDungeon\\assets\\scripts\\item\\jumpboost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F8C841-1D95-85A5-751C-36D06FFE0A09}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\item\\jumpboost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F8C841-1D95-85A5-751C-36D06FFE0A09}|Assembly-CSharp.csproj|D:\\Git\\Sparta_Git\\Dahye_UnityProject\\JumpDungeon\\assets\\scripts\\ui\\uiinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26F8C841-1D95-85A5-751C-36D06FFE0A09}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uiinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26F8C841-1D95-85A5-751C-36D06FFE0A09}|Assembly-CSharp.csproj|d:\\sparta coding club\\\uAC1C\uC778\uACFC\uC81C_jumpdungeon\\jumpdungeon\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26F8C841-1D95-85A5-751C-36D06FFE0A09}|Assembly-CSharp.csproj|D:\\Git\\Sparta_Git\\Dahye_UnityProject\\JumpDungeon\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26F8C841-1D95-85A5-751C-36D06FFE0A09}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26F8C841-1D95-85A5-751C-36D06FFE0A09}|Assembly-CSharp.csproj|d:\\sparta coding club\\\uAC1C\uC778\uACFC\uC81C_jumpdungeon\\jumpdungeon\\assets\\scripts\\ui\\uicondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26F8C841-1D95-85A5-751C-36D06FFE0A09}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uicondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,15 +34,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Hamburger.cs",
-              "DocumentMoniker": "D:\\Sparta Coding Club\\\uAC1C\uC778\uACFC\uC81C_JumpDungeon\\JumpDungeon\\Assets\\Scripts\\Item\\Hamburger.cs",
+              "DocumentMoniker": "D:\\Git\\Sparta_Git\\Dahye_UnityProject\\JumpDungeon\\Assets\\Scripts\\Item\\Hamburger.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Item\\Hamburger.cs",
-              "ToolTip": "D:\\Sparta Coding Club\\\uAC1C\uC778\uACFC\uC81C_JumpDungeon\\JumpDungeon\\Assets\\Scripts\\Item\\Hamburger.cs",
+              "ToolTip": "D:\\Git\\Sparta_Git\\Dahye_UnityProject\\JumpDungeon\\Assets\\Scripts\\Item\\Hamburger.cs",
               "RelativeToolTip": "Assets\\Scripts\\Item\\Hamburger.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -51,68 +51,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "UICondition.cs",
-              "DocumentMoniker": "D:\\Sparta Coding Club\\\uAC1C\uC778\uACFC\uC81C_JumpDungeon\\JumpDungeon\\Assets\\Scripts\\UI\\UICondition.cs",
+              "DocumentMoniker": "D:\\Git\\Sparta_Git\\Dahye_UnityProject\\JumpDungeon\\Assets\\Scripts\\UI\\UICondition.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UICondition.cs",
-              "ToolTip": "D:\\Sparta Coding Club\\\uAC1C\uC778\uACFC\uC81C_JumpDungeon\\JumpDungeon\\Assets\\Scripts\\UI\\UICondition.cs",
+              "ToolTip": "D:\\Git\\Sparta_Git\\Dahye_UnityProject\\JumpDungeon\\Assets\\Scripts\\UI\\UICondition.cs",
               "RelativeToolTip": "Assets\\Scripts\\UI\\UICondition.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T10:30:42.167Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "PlayerCondition.cs",
-              "DocumentMoniker": "D:\\Sparta Coding Club\\\uAC1C\uC778\uACFC\uC81C_JumpDungeon\\JumpDungeon\\Assets\\Scripts\\Player\\PlayerCondition.cs",
+              "DocumentMoniker": "D:\\Git\\Sparta_Git\\Dahye_UnityProject\\JumpDungeon\\Assets\\Scripts\\Player\\PlayerCondition.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerCondition.cs",
-              "ToolTip": "D:\\Sparta Coding Club\\\uAC1C\uC778\uACFC\uC81C_JumpDungeon\\JumpDungeon\\Assets\\Scripts\\Player\\PlayerCondition.cs",
+              "ToolTip": "D:\\Git\\Sparta_Git\\Dahye_UnityProject\\JumpDungeon\\Assets\\Scripts\\Player\\PlayerCondition.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerCondition.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAkwEEAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T10:29:53.157Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "PlayerController.cs",
-              "DocumentMoniker": "D:\\Sparta Coding Club\\\uAC1C\uC778\uACFC\uC81C_JumpDungeon\\JumpDungeon\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "DocumentMoniker": "D:\\Git\\Sparta_Git\\Dahye_UnityProject\\JumpDungeon\\Assets\\Scripts\\Player\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
-              "ToolTip": "D:\\Sparta Coding Club\\\uAC1C\uC778\uACFC\uC81C_JumpDungeon\\JumpDungeon\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "ToolTip": "D:\\Git\\Sparta_Git\\Dahye_UnityProject\\JumpDungeon\\Assets\\Scripts\\Player\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
               "ViewState": "AgIAAEwAAAAAAAAAAAAkwHQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T09:58:37.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T09:58:37.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UIInventory.cs",
+              "DocumentMoniker": "D:\\Git\\Sparta_Git\\Dahye_UnityProject\\JumpDungeon\\Assets\\Scripts\\UI\\UIInventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIInventory.cs",
+              "ToolTip": "D:\\Git\\Sparta_Git\\Dahye_UnityProject\\JumpDungeon\\Assets\\Scripts\\UI\\UIInventory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIInventory.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAYwNAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:57:07.423Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UIInventory.cs",
-              "DocumentMoniker": "D:\\Sparta Coding Club\\\uAC1C\uC778\uACFC\uC81C_JumpDungeon\\JumpDungeon\\Assets\\Scripts\\UI\\UIInventory.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIInventory.cs",
-              "ToolTip": "D:\\Sparta Coding Club\\\uAC1C\uC778\uACFC\uC81C_JumpDungeon\\JumpDungeon\\Assets\\Scripts\\UI\\UIInventory.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI\\UIInventory.cs",
-              "ViewState": "AgIAALsAAAAAAAAAAAAYwNAAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T09:57:07.423Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "JumpBoost.cs",
-              "DocumentMoniker": "D:\\Sparta Coding Club\\\uAC1C\uC778\uACFC\uC81C_JumpDungeon\\JumpDungeon\\Assets\\Scripts\\Item\\JumpBoost.cs",
+              "DocumentMoniker": "D:\\Git\\Sparta_Git\\Dahye_UnityProject\\JumpDungeon\\Assets\\Scripts\\Item\\JumpBoost.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Item\\JumpBoost.cs",
-              "ToolTip": "D:\\Sparta Coding Club\\\uAC1C\uC778\uACFC\uC81C_JumpDungeon\\JumpDungeon\\Assets\\Scripts\\Item\\JumpBoost.cs",
+              "ToolTip": "D:\\Git\\Sparta_Git\\Dahye_UnityProject\\JumpDungeon\\Assets\\Scripts\\Item\\JumpBoost.cs",
               "RelativeToolTip": "Assets\\Scripts\\Item\\JumpBoost.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T08:57:31.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T08:57:31.681Z"
             }
           ]
         }
