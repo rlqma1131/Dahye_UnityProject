@@ -37,4 +37,8 @@ public class Character : MonoBehaviour
     {
         rectTransform.DOAnchorPos(moveOutPos, moveDuration);
     }
+
+    public void SetAttackPower(float value) => attackPower = value;
+    public void SetDeffencePower(float value)=> deffencePower = value;
+    public void SetHealthPower(float value)=> curHP = Mathf.Clamp(value, 0, maxHP);
 }

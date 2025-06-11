@@ -23,7 +23,7 @@ public class GameManager : MonoBehaviour
         SetData();
     }
 
-    void SetData()
+    public void SetData()
     {
         Player = UIManager.Instance.Character;
 

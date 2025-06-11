@@ -22,9 +22,4 @@ public class UIMain : UIAnimation
         HP.fillAmount = player.CurHP / player.MaxHP;
         HPAmount.text = $"{player.CurHP} / {player.MaxHP}";
     }
-
-
-
-
-
 }

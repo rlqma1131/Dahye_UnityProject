@@ -8,11 +8,13 @@ public class UIManager : MonoBehaviour
     [SerializeField] private UIStatus status;
     [SerializeField] private UIInventory inventory;
     [SerializeField] private Character character;
+    [SerializeField] private UISlot slot;
 
     public UIMain Main => main;
     public UIStatus Status => status;
     public UIInventory Inventory => inventory;
     public Character Character => character;
+    public UISlot Slot => slot;
 
     private void Awake()
     {
@@ -40,6 +42,16 @@ public class UIManager : MonoBehaviour
         }
 
             target.Open();
+    }
+    public void RefreshUI()
+    {
+        character = GameManager.Instance.Player;
+
+        if (character != null && Status != null && Main != null)
+        {
+            Status.SetPlayer(character);
+            Main.SetPlayer(character);
+        }
     }
 
     public void OpenMainMenu() => OpenOnly(main);

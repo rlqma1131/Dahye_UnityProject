@@ -6,7 +6,7 @@ using UnityEngine.UI;
 
 public class UIStatus : UIAnimation
 {
-    [SerializeField] private Button cancleBtn;
+    [SerializeField] private Button ExitBtn;
     [SerializeField] private TextMeshProUGUI attackPower;
     [SerializeField] private TextMeshProUGUI deffencePower;
     [SerializeField] private TextMeshProUGUI hp;
@@ -14,7 +14,7 @@ public class UIStatus : UIAnimation
 
     void Start()
     {
-        cancleBtn.onClick.AddListener(() => UIManager.Instance.OpenMainMenu());
+        ExitBtn.onClick.AddListener(() => UIManager.Instance.OpenMainMenu());
     }
 
     public void SetPlayer(Character player)
