@@ -14,7 +14,7 @@ public class UIAnimation : MonoBehaviour
             canvasGroup = GetComponent<CanvasGroup>();
     }
 
-    public virtual void Open()
+    public virtual void Open() // 스르륵 열리기
     {
         InitializeCanvas();
 
@@ -30,7 +30,7 @@ public class UIAnimation : MonoBehaviour
         });
     }
 
-    public virtual void Close()
+    public virtual void Close() // 스르륵 닫히기
     {
         InitializeCanvas();
 

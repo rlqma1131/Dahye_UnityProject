@@ -39,6 +39,7 @@ public class UIInventory : UIAnimation
                 selectedSlot.OnUse();
         });
 
+        // 임의로 인벤토리에 아이템 넣기
         string[] itemNames = { "Helmet", "Shield", "Sword", "Health Potion", "Defense Potion" };
 
         for (int i = 0; i < itemNames.Length && i < slots.Count; i++)
@@ -70,7 +71,8 @@ public class UIInventory : UIAnimation
             slots.Add(slot);
         }
     }
-    public void SelectSlot(UISlot slot)
+
+    public void SelectSlot(UISlot slot) // 버튼/설명 셋팅
     {
         selectedSlot = slot;
 
@@ -83,7 +85,7 @@ public class UIInventory : UIAnimation
             switch (item.itemType)
             {
                 case ItemType.Equipable:
-                    if (item.isEquipped == false)
+                    if (item.isEquipped == false) // 장착/해제 전환
                     {
                         equipBtn.gameObject.SetActive(true);
                         unequipBtn.gameObject.SetActive(false);
@@ -95,7 +97,7 @@ public class UIInventory : UIAnimation
                         unequipBtn.gameObject.SetActive(true);
                         useBtn.gameObject.SetActive(false);
                     }
-                        break;
+                    break;
                 case ItemType.Consumable:
                     equipBtn.gameObject.SetActive(false);
                     unequipBtn.gameObject.SetActive(false);
@@ -108,7 +110,7 @@ public class UIInventory : UIAnimation
                     break;
             }
         }
-        else
+        else // 빈칸 선택
         {
             selectedItemName.text = "";
             selectedItemDescription.text = "";

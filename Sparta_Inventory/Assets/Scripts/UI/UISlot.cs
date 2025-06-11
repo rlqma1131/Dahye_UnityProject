@@ -59,7 +59,7 @@ public class UISlot : MonoBehaviour
 
         var Player = GameManager.Instance.Player;
 
-        if (currentItem.isEquipped)
+        if (currentItem.isEquipped) // 장착 해제
         {
             switch (currentItem.equipableData.equipableType)
             {
@@ -75,7 +75,7 @@ public class UISlot : MonoBehaviour
             currentItem.isEquipped = false;
             SetEquippedMark(false);
         }
-        else
+        else // 장착
         {
             switch (currentItem.equipableData.equipableType)
             {
